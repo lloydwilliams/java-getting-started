@@ -1,0 +1,1 @@
+heroku config:add DD_API_KEY=27ad2a82ad6bf2e3eb14cdf40fd486db
